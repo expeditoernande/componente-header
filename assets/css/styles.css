@@ -1,0 +1,15 @@
+.headersecundario, .headerprimario {
+    list-style: none;
+}
+
+.headerprimario {
+    display: flex;
+}
+
+.navigation-header {
+    display: flex;
+}
+
+.headersecundario {
+    display: flex;
+}
